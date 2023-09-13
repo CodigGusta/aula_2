@@ -18,8 +18,6 @@ print(numerox + numeroy)
 ## 🛠️Tecnologias utilizadas:
 
 > Editor de código: COLAB
-Linguagens: Python
-
 
 ## Versões:
 
